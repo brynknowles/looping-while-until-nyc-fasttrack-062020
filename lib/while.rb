@@ -2,8 +2,8 @@
 using_while = 0
 
 while using_while < 10
-  using_while += 1
   puts "Wingardium Leviosa"
+  using_while += 1
 end
 
 # counter = 0
